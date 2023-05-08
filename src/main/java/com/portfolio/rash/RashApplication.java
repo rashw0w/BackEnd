@@ -11,9 +11,9 @@ import org.springframework.web.filter.CorsFilter;
 @SpringBootApplication
 public class RashApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(RashApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(RashApplication.class, args);
+    }
      @Bean
      public CorsFilter corsFilter() {
         CorsConfiguration corsConfiguration = new CorsConfiguration();
