@@ -22,7 +22,6 @@ com/portfolio/rash/Controller/CEducacion.class
 com/portfolio/rash/Security/Dto/JwtDto.class
 com/portfolio/rash/Entity/Educacion.class
 com/portfolio/rash/Security/Dto/LoginUsuario.class
-com/portfolio/rash/Interface/IPersonaService.class
 com/portfolio/rash/Service/SExperiencia.class
 com/portfolio/rash/Security/Repository/iRolRepository.class
 com/portfolio/rash/Controller/PersonaController.class

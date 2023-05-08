@@ -32,7 +32,6 @@
 /home/rash/Desktop/Projecto2/BackEnd/src/main/java/com/portfolio/rash/Security/Repository/iUsuarioRepository.java
 /home/rash/Desktop/Projecto2/BackEnd/src/main/java/com/portfolio/rash/Security/Dto/LoginUsuario.java
 /home/rash/Desktop/Projecto2/BackEnd/src/main/java/com/portfolio/rash/Security/Enums/RolNombre.java
-/home/rash/Desktop/Projecto2/BackEnd/src/main/java/com/portfolio/rash/Interface/IPersonaService.java
 /home/rash/Desktop/Projecto2/BackEnd/src/main/java/com/portfolio/rash/Security/Dto/JwtDto.java
 /home/rash/Desktop/Projecto2/BackEnd/src/main/java/com/portfolio/rash/Service/ImpPersonaService.java
 /home/rash/Desktop/Projecto2/BackEnd/src/main/java/com/portfolio/rash/Controller/PersonaController.java
