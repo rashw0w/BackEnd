@@ -21,7 +21,7 @@ public class RashApplication {
         return new WebMvcConfigurer() {
             @Override
             public void addCorsMappings(CorsRegistry registry) {
-                registry.addMapping("/**").allowedOrigins("https://rashw0wportfolio.web.app/");
+                registry.addMapping("/**").allowedOrigins("https://rashw0wportfolio.web.app/").allowedMethods("*").allowedHeaders("*");
             }
         };
     }
