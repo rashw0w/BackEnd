@@ -5,10 +5,6 @@
  */
 package com.portfolio.rash.Security.Controller;
 
-/**
- *
- * @author Usuario
- */
 public class Mensaje {
     private String mensaje;
     

@@ -8,10 +8,6 @@ package com.portfolio.rash.Security.Dto;
 import java.util.Collection;
 import org.springframework.security.core.GrantedAuthority;
 
-/**
- *
- * @author Usuario
- */
 public class JwtDto {
     private String token;
     private String bearer = "Bearer";

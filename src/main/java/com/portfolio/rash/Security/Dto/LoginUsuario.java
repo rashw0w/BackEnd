@@ -7,10 +7,7 @@ package com.portfolio.rash.Security.Dto;
 
 import javax.validation.constraints.NotBlank;
 
-/**
- *
- * @author Usuario
- */
+
 public class LoginUsuario {
     @NotBlank
     private String nombreUsuario;
